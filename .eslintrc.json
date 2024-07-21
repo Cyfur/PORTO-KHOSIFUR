@@ -5,7 +5,7 @@
     "@typescript-eslint/quotes": "off" ,
     "quotes" : [0],
     "avoidEscaped" : 0,
-    "avoidTemplateLiterals": 0,
+    "allowTemplateLiterals": 0,
     "no-useless-escape" : 0
   }
 }
