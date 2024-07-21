@@ -6,6 +6,7 @@
     "quotes" : [0],
     "avoidEscaped" : 0,
     "allowTemplateLiterals": 0,
-    "no-useless-escape" : 0
+    "no-useless-escape" : 0,
+    "react/jsx-key": "off"
   }
 }
